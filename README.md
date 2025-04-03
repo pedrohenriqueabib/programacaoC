@@ -1,1 +1,1 @@
-# programacaoC
+Criado para finalidade de estudo.
